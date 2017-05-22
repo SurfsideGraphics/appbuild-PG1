@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Published stories by thePost and Courier</title>
+        <description>www.postandcourier.com - RSS Results
+		in section(s) news,news/local_state_news*
+		only for asset type(s) of article RSS Feed</description>
+        <link>http://www.postandcourier.com/search/?t=article&amp;c%5B%5D=news,news/local_state_news*&amp;l=3&amp;s=&amp;sd=desc&amp;f=rss&amp;altf=newsletters</link>
+        <lastBuildDate>Mon, 15 May 2017 09:02:42 -0400</lastBuildDate>
+        <pubDate>Mon, 15 May 2017 06:00:00 -0400</pubDate>
+        <item>
+            <title><![CDATA[Higher-than-normal temperatures forecast for Monday, rest of week in Charleston area]]></title>            
+            <createdDate>Mon, 15 May 2017 07:31:00 -0400</createdDate>
+            <pubDate>Mon, 15 May 2017 07:40:33 -0400</pubDate>
+            <guid>http://www.postandcourier.com/tncms/asset/editorial/13cf94cc-3962-11e7-ae4a-b32efd3ceb74</guid>
+            <link>http://www.postandcourier.com/news/higher-than-normal-temperatures-forecast-for-monday-rest-of-week/article_13cf94cc-3962-11e7-ae4a-b32efd3ceb74.html</link>
+            <author><![CDATA[By Michael Majchrowicz mmajchrowicz@postandcourier.com]]></author>
+            <description><![CDATA[Above-normal high temperatures continue to make their way into the Charleston-area forecast, with highs at or near 90 for the entire week.]]></description>
+
+            
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/3/99/3991ce50-3962-11e7-b5e2-27a0d5b49650/5919922181cc2.image.jpg?resize=300%2C248" length="88829" type="image/jpeg" />              
+             
+        
+        </item>
+        <item>
+            <title><![CDATA[Things To Do Monday, May 15, 2017]]></title>            
+            <createdDate>Mon, 15 May 2017 07:00:00 -0400</createdDate>
+            <pubDate>Mon, 15 May 2017 07:00:00 -0400</pubDate>
+            <guid>http://www.postandcourier.com/tncms/asset/editorial/3dc96e72-3905-11e7-95fc-47b86820a353</guid>
+            <link>http://www.postandcourier.com/news/things-to-do-monday-may/article_3dc96e72-3905-11e7-95fc-47b86820a353.html</link>
+            <description><![CDATA['Twelfth Night']]></description>
+
+            
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/9/08/908f7148-3909-11e7-a0c4-9b061cc175fb/5918fd973485d.image.png?resize=300%2C169" length="449553" type="image/jpeg" />              
+             
+        
+        </item>
+        <item>
+            <title><![CDATA[Peper column: Deep thinking behind the mower]]></title>            
+            <createdDate>Mon, 15 May 2017 06:00:00 -0400</createdDate>
+            <pubDate>Mon, 15 May 2017 06:00:00 -0400</pubDate>
+            <guid>http://www.postandcourier.com/tncms/asset/editorial/952ccbf6-372e-11e7-80d3-cfa55c58cbd8</guid>
+            <link>http://www.postandcourier.com/columnists/peper-column-deep-thinking-behind-the-mower/article_952ccbf6-372e-11e7-80d3-cfa55c58cbd8.html</link>
+            <author><![CDATA[By Warren Peper]]></author>
+            <description><![CDATA[I think my neighbor Joe and I are two of the last people in the Lowcountry without riding lawn mowers. We both still push our mowing machines. Cutting the grass, at my age, is a pain. But paying somebody else...]]></description>
+
+            
+            <enclosure url="http://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/0/fc/0fc5a784-372f-11e7-b21f-9b05f8b37968/5806271408e30.image.jpg?resize=300%2C216" length="474585" type="image/jpeg" />              
+             
+        
+        </item>
+        
+    </channel>
+</rss>
